@@ -122,6 +122,3 @@ You’ll see an interactive menu like:
 
 ---
 
-## License
-
-No license file is currently included in the repository. If you want this to be reusable by others, add a `LICENSE` (e.g., MIT, Apache-2.0, GPL-3.0, etc.).
